@@ -1,3 +1,4 @@
 .sdk
 build
 target
+vendor/*
